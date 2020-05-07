@@ -12,6 +12,7 @@ Machine Details:
 - Virtual Memory Disabled
 - Intel Core i7-9850H@2.60 GHz
 - 64 GB RAM
+- NVMe SSD Disk (SAMSUNG MZVLB1T0HBLR-000L7 - Novabench Benchmark: Average sequential read speed 1777 MB/s Average sequential write speed 2541 MB/s)
 
 #### Results
 >**Time taken to process: ~78 Minutes**
