@@ -14,12 +14,12 @@ Machine Details:
 - 64 GB RAM
 
 #### Results
->Time taken to process: ~77 Minutes
+>**Time taken to process: ~78 Minutes**
 ![Kibana Discover](https://github.com/hemantmalik/misc/blob/master/filebeat-helloperfworld-run/images/discover-screenshot.png)
 
->Machine Resources Impact
+>**Machine Resources Impact**
 ![Kibana Dashboard](https://github.com/hemantmalik/misc/blob/master/filebeat-helloperfworld-run/images/cpu-memory.png)
 
->Filebeat Monitoring Details
+>**Filebeat Monitoring Details**
 ![Kibana Stack Monitoring](https://github.com/hemantmalik/misc/blob/master/filebeat-helloperfworld-run/images/filbeat-monitoring-head.png)
 ![Kibana Stack Monitoring](https://github.com/hemantmalik/misc/blob/master/filebeat-helloperfworld-run/images/filebeat-monitoring.png)
